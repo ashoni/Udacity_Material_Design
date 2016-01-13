@@ -1,0 +1,4 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_card_top_margin">256dp</dimen>
+</resources>

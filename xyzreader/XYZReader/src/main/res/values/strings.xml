@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XYZ Reader</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_share">Share</string>
+    <string name="transition_photo">transition_photo</string>
+    <string name="logo_content_description">XYZ Logo</string>
+</resources>

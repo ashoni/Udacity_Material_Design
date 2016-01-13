@@ -1,0 +1,13 @@
+<resources>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+    <dimen name="grid_space">2dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_pressed_translation">12dp</dimen>
+    <dimen name="article_elevation">2dp</dimen>
+    <dimen name="toolbar_height">100dp</dimen>
+    <dimen name="logo_height">60dp</dimen>
+    <dimen name="refresh_margin">100dp</dimen>
+    <dimen name="card_height">200dp</dimen>
+    <dimen name="thumbnail_text_padding">4dp</dimen>
+</resources>
